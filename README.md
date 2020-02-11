@@ -17,7 +17,8 @@ Essa aplicação foi desenvolvida no 7º modulo do GoStack 10.0.
 1. Faça um clone desse repositório;
 2. Entre na pasta rodando `cd reactjs-rocketshoes`;
 3. Rode `yarn` para instalar as dependências;
-4. Rode `yarn start` para iniciar a aplicação.
+4. Rode o json-server `json-server server.json -p 3333 -w`;
+5. Rode `yarn start` para iniciar a aplicação.
 
 ## 🤔 Como contribuir
 
